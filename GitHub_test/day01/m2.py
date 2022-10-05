@@ -8,3 +8,6 @@ Copyright (c) 2022/10/5
 
 def add(a,b):
     print(a+b)
+
+def say():
+    print("hello World")
